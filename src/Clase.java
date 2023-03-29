@@ -15,6 +15,7 @@ public class Clase {
 		// TODO Auto-generated method stub
 int num= 7;
 int num2=33;
+int num8=0;
 	}
 
 }
